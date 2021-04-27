@@ -1,0 +1,123 @@
+baseURL: "https://github.com/Ayaoayao/Ayaoayao.github.io"
+title: The Hitchhiker's Guide to the Algorithm
+paginate: 5
+theme: hugo-PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Blog
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    author: Siyao Zhang
+
+    defaultTheme: auto
+    ShowShareButtons: true
+    ShowReadingTime: true
+
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+    comments: false
+
+    profileMode:
+        enabled: false
+        title: PaperMod
+        imageUrl: "#"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Archive
+              url: archives
+            - name: Tags
+              url: tags
+
+    homeInfoParams:
+        Title: "The Hitchhiker's Guide to the Algorithm"
+        Content: >
+            The Hitchhiker's Guide to the Algorithm.
+
+            - Software engineer, Geeker. 
+
+            - Here I mostly blog about Python, algorithm and how programing can be interesting.
+
+            - Hope you enjoy your time here 🍻
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/Ayaoayao"
+        - name: RsS
+          url: "index.xml"
+
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+     goldmark:
+        renderer:
+            unsafe: true
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
