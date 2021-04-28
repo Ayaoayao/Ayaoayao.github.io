@@ -1,4 +1,4 @@
-baseURL: "https://github.com/Ayaoayao/Ayaoayao.github.io"
+baseURL: "https://ayaoayao.github.io/"
 title: The Hitchhiker's Guide to the Algorithm
 paginate: 5
 theme: hugo-PaperMod
@@ -44,7 +44,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "Welcome to the wonderland"
     author: Siyao Zhang
 
     defaultTheme: auto
