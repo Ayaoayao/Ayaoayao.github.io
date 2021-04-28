@@ -27,10 +27,10 @@ languages:
                 - name: Search
                   url: search/
                   weight: 10
-                - name: Tags
+                - name: Tag
                   url: tags/
                   weight: 10
-                - name: Categories
+                - name: Category
                   url: categories/
                   weight: 10
 
@@ -47,7 +47,7 @@ params:
     description: "Welcome to the wonderland"
     author: Siyao Zhang
 
-    defaultTheme: auto
+    defaultTheme: light
     ShowShareButtons: true
     ShowReadingTime: true
 
@@ -57,35 +57,25 @@ params:
     ShowToc: true
     comments: false
 
-    profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
-        buttons:
-            - name: Archive
-              url: archives
-            - name: Tags
-              url: tags
-
     homeInfoParams:
-        Title: "The Hitchhiker's Guide to the Algorithm"
+        Title: "Always Remember"
         Content: >
-            The Hitchhiker's Guide to the Algorithm.
 
-            - Software engineer, Geeker. 
+            - Never accept the world for what it appears to be.
 
-            - Here I mostly blog about Python, algorithm and how programing can be interesting.
+            - Dare to see it for what it could be.
 
-            - Hope you enjoy your time here 🍻
+            - Peace & Love 🍻
 
     socialIcons:
         - name: github
           url: "https://github.com/Ayaoayao"
-        - name: RsS
-          url: "index.xml"
+        - name: qq
+          url:  "https://www.qq.com"
+        - name: youtube
+          url:  "https://www.bilibili.com/"
+        - name: other
+          url:  "http://game.granbluefantasy.jp"
 
 
 taxonomies:
