@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Hitchhiker&#39;s Guide to the Algorithm</title>
-    <link>https://github.com/Ayaoayao/Ayaoayao.github.io/categories/</link>
+    <link>https://ayaoayao.github.io/categories/</link>
     <description>Recent content in Categories on The Hitchhiker&#39;s Guide to the Algorithm</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://github.com/Ayaoayao/Ayaoayao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ayaoayao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

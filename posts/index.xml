@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Hitchhiker&#39;s Guide to the Algorithm</title>
-    <link>https://github.com/Ayaoayao/Ayaoayao.github.io/posts/</link>
+    <link>https://ayaoayao.github.io/posts/</link>
     <description>Recent content in Posts on The Hitchhiker&#39;s Guide to the Algorithm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Apr 2021 22:42:39 +0800</lastBuildDate><atom:link href="https://github.com/Ayaoayao/Ayaoayao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 22:42:39 +0800</lastBuildDate><atom:link href="https://ayaoayao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>随便写</title>
-      <link>https://github.com/Ayaoayao/Ayaoayao.github.io/posts/2021-04-28/</link>
+      <link>https://ayaoayao.github.io/posts/2021-04-28/</link>
       <pubDate>Tue, 27 Apr 2021 22:42:39 +0800</pubDate>
       
-      <guid>https://github.com/Ayaoayao/Ayaoayao.github.io/posts/2021-04-28/</guid>
+      <guid>https://ayaoayao.github.io/posts/2021-04-28/</guid>
       <description>随笔 今天给新人出面试题的时候，想到自己也可能要跳槽了。也许面临的也是这样的考试还是为自己捏了一把汗。有一段时间沉浸于业务当中导致自己的视野被限制，创新能力的下降。是时候把别的东西捡起来看看了。
 待做列表  更新简历 熟悉 markdown 熟悉 docker compose 熟悉 机器学习 熟悉 golang 基础语法 熟悉 python 图像处理  每日一题算法 实现LFU算法对象
 #!/usr/bin/env python  from collections import deque class LFUCache(object): def __init__(self, num): self.cap = num self.dict = {} self.stack = deque([]) def get(self, key): if key in self.dict: self.stack.append(key) return self.dict[key] return -1 def set(self, key, value): if key not in self.dict and len(self.dict) &amp;gt;= self.cap: pivot = self.stack.popleft() self.</description>
