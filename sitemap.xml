@@ -3,9 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ayaoayao.github.io/posts/</loc>
-    <lastmod>2021-04-27T22:42:39+08:00</lastmod>
+    <lastmod>2021-05-07T22:15:04+08:00</lastmod>
+  </url><url>
+    <loc>https://ayaoayao.github.io/tags/</loc>
+    <lastmod>2021-05-07T22:15:04+08:00</lastmod>
   </url><url>
     <loc>https://ayaoayao.github.io/</loc>
+    <lastmod>2021-05-07T22:15:04+08:00</lastmod>
+  </url><url>
+    <loc>https://ayaoayao.github.io/posts/2021-05-07/</loc>
+    <lastmod>2021-05-07T22:15:04+08:00</lastmod>
+  </url><url>
+    <loc>https://ayaoayao.github.io/tags/%E5%B9%B6%E5%8F%91/</loc>
+    <lastmod>2021-05-07T22:15:04+08:00</lastmod>
+  </url><url>
+    <loc>https://ayaoayao.github.io/tags/algorithm/</loc>
+    <lastmod>2021-04-27T22:42:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ayaoayao.github.io/tags/interview/</loc>
     <lastmod>2021-04-27T22:42:39+08:00</lastmod>
   </url><url>
     <loc>https://ayaoayao.github.io/posts/2021-04-28/</loc>
@@ -18,7 +33,5 @@
     <loc>https://ayaoayao.github.io/search/</loc>
   </url><url>
     <loc>https://ayaoayao.github.io/series/</loc>
-  </url><url>
-    <loc>https://ayaoayao.github.io/tags/</loc>
   </url>
 </urlset>

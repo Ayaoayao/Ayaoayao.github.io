@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>interview on The Hitchhiker&#39;s Guide to the Algorithm</title>
+    <link>https://ayaoayao.github.io/tags/interview/</link>
+    <description>Recent content in interview on The Hitchhiker&#39;s Guide to the Algorithm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Apr 2021 22:42:39 +0800</lastBuildDate><atom:link href="https://ayaoayao.github.io/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>面试的感悟和每日算法</title>
+      <link>https://ayaoayao.github.io/posts/2021-04-28/</link>
+      <pubDate>Tue, 27 Apr 2021 22:42:39 +0800</pubDate>
+      
+      <guid>https://ayaoayao.github.io/posts/2021-04-28/</guid>
+      <description>记录一下每天的日常</description>
+    </item>
+    
+  </channel>
+</rss>

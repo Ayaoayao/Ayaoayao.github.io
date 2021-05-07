@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>并发 on The Hitchhiker&#39;s Guide to the Algorithm</title>
+    <link>https://ayaoayao.github.io/tags/%E5%B9%B6%E5%8F%91/</link>
+    <description>Recent content in 并发 on The Hitchhiker&#39;s Guide to the Algorithm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 07 May 2021 22:15:04 +0800</lastBuildDate><atom:link href="https://ayaoayao.github.io/tags/%E5%B9%B6%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初窥”协程“之Python</title>
+      <link>https://ayaoayao.github.io/posts/2021-05-07/</link>
+      <pubDate>Fri, 07 May 2021 22:15:04 +0800</pubDate>
+      
+      <guid>https://ayaoayao.github.io/posts/2021-05-07/</guid>
+      <description>协程，线程，进程</description>
+    </item>
+    
+  </channel>
+</rss>
