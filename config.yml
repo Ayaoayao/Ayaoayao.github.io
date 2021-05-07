@@ -48,6 +48,7 @@ params:
     author: Siyao Zhang
 
     defaultTheme: light
+    ShowCodeCopyButtons: true
     ShowShareButtons: true
     ShowReadingTime: true
 
