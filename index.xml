@@ -5,7 +5,16 @@
     <link>https://ayaoayao.github.io/</link>
     <description>Recent content on The Hitchhiker&#39;s Guide to the Algorithm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 May 2021 22:15:04 +0800</lastBuildDate><atom:link href="https://ayaoayao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 21:39:38 +0800</lastBuildDate><atom:link href="https://ayaoayao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps“数据为王”</title>
+      <link>https://ayaoayao.github.io/posts/2021-05-17/</link>
+      <pubDate>Mon, 17 May 2021 21:39:38 +0800</pubDate>
+      
+      <guid>https://ayaoayao.github.io/posts/2021-05-17/</guid>
+      <description>敏捷软件开发生命中，数据的重要性</description>
+    </item>
+    
     <item>
       <title>初窥”协程“之Python</title>
       <link>https://ayaoayao.github.io/posts/2021-05-07/</link>
